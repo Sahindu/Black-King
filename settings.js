@@ -12,18 +12,18 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['94704227434']
-global.premium = ['94704227434']
-global.ownernomer = '94704227434'
-global.ownername = 'Shan FDO'
+global.owner = ['94725529858']
+global.premium = ['94725529858']
+global.ownernomer = '94725529858'
+global.ownername = 'Shan SSJ'
 global.botname = 'KING Shan BOT'
-global.footer = '</> POWER BY SHAN FDO </>'
-global.ig = 'https://github.com/SACHIBOT/Black-King'
+global.footer = '</> POWER BY SHAN SSJ </>'
+global.ig = 'https://github.com/Sahindu/Black-King'
 global.region = 'Sri Lanka'
-global.sc = 'https://github.com/SACHIBOT/Black-King'
+global.sc = 'https://github.com/Sahindu/Black-King'
 global.myweb = 'https://www.youtube.com/channel/UC1-wONQE-85uzBX5JMdBxjw'
 global.packname = 'KING Shan BOT'
-global.author = 'SHAN FDO'
+global.author = 'SHAN SSJ'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🌿','🔥','🎮']
 global.sp = '⭔'
